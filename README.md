@@ -1,5 +1,3 @@
-## Hola, mi nombre es Carlos Morales 👋
-
 # ¡Hola! Soy Carlos Morales 👋
 
 ### Freelance Full-Stack Developer
