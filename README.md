@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hola, mi nombre es Carlos Morales 👋
 
-<!--
-**CarlosMorales34/CarlosMorales34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Carlos Morales 👋
 
-Here are some ideas to get you started:
+### Freelance Full-Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy un desarrollador de software apasionado por el desarrollo web, la automatización de procesos y el desarrollo con inteligencia artificial. Tengo experiencia en programación desde 2022 y conocimientos en psicología, lo que me ha permitido contribuir con los equipos de trabajos y tecnologias para adaptarme, aportar en la solución de problemas y generar valor en las empresas.
+
+---
+
+## Sobre mí
+
+- 🧠 **Apasionado por:** Desarrollo de software, automatización de procesos e IA.
+- 💻 **Lenguajes que manejo:** Python, PHP, JavaScript.
+- 🗄️ **Bases de datos:** SQL, PostgreSQL, MongoDB.
+- 🔄 **Control de versiones:** Git.
+- ☁️ **Cloud Computing:** IBM Cloud.
+- 🎓 **Certificaciones:** IBM, Platzi.
+
+---
+
+## Encuéntrame en:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-morales1134/)
+- 🌐 [Portafolio](https://carlosdevportfolio.com/)
+
+---
+
+## Contacto
+
+Si estás interesado en colaborar, o simplemente quieres hablar sobre tecnología, ¡no dudes en contactarme!
+
